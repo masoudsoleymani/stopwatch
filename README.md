@@ -5,7 +5,7 @@ Install node
 
 ### `yarn`
 
-In the project directory, you can run:
+In the project directory run
 
 ### `yarn start`
 
