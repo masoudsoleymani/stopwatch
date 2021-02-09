@@ -1,6 +1,6 @@
 ## This repo is for stopwatch app with react
 
-## Runs in the development mode
+## Run it in the development mode
 
 Install node 
 
