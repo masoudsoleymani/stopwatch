@@ -11,10 +11,3 @@ In the project directory run
 ### `yarn start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-
-
-# Welcome to tb.lx Github Showcase
-A place to display the **tb.lx** inner source projects / products
-
-Page is published at [https://git.daimler.com/pages/tblx/welcome](https://git.daimler.com/pages/tblx/welcome)
