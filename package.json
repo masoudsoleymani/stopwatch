@@ -7,9 +7,10 @@
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
+  "homepage": "https://masoudsoleymani.github.io/stopwatch",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "rm -rf build && yarn build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
