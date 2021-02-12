@@ -1,14 +1,13 @@
 ## This repo is for stopwatch app with react
 
-## Available Scripts
+## Run it in the development mode
 
-Install node node_modules:
+Install node 
 
 ### `yarn`
 
-In the project directory, you can run:
+In the project directory run
 
 ### `yarn start`
 
-Runs in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
