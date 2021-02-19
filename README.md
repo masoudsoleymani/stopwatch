@@ -1,20 +1,22 @@
 ## This repo is for stopwatch app with react
 Page is published at [https://masoudsoleymani.github.io/stopwatch/](https://masoudsoleymani.github.io/stopwatch/)
 
-## Run it in the development mode
+## Run in the development mode
 
-Install node 
+  ### Prerequisites
+  - [Node.js](https://nodejs.org/en/)
+  - [yarn](https://classic.yarnpkg.com/en/docs/install/)
+  - [Docker](https://www.docker.com/)
 
-### `yarn`
+  ### Installation
+  - clone the repo
+  - `yarn` for dependencies installation
 
-In the project directory run
+  ### Running
+  - `yarn start` for webpack-dev-server
+  - `yarn build` for production
 
-### `yarn start`
-
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-
-## Running with Docker
+  ### Running with Docker
   * Build: `docker build -t stopwatch .`
   * Run: `docker run -it -p 3000:3000 stopwatch`
   * Open [http://localhost:3000](http://localhost:3000)
