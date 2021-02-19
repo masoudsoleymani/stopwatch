@@ -1,4 +1,5 @@
-## This repo is for stopwatch app with react
+## This repo is for a stopwatch app 
+
 Page is published at [https://masoudsoleymani.github.io/stopwatch/](https://masoudsoleymani.github.io/stopwatch/)
 
 ## Run in the development mode
