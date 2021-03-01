@@ -24,4 +24,4 @@ Page is published at [https://masoudsoleymani.github.io/stopwatch/](https://maso
 
 # Screen
 
-![](src/ScreenShot.jpg)
+![](public/ScreenShot.jpg)
