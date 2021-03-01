@@ -22,6 +22,6 @@ Page is published at [https://masoudsoleymani.github.io/stopwatch/](https://maso
   * Run: `docker run -it -p 3000:3000 stopwatch`
   * Open [http://localhost:3000](http://localhost:3000)
 
-# Screen
+## Screen
 
 ![](public/ScreenShot.jpg)
