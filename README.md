@@ -26,4 +26,4 @@ Page is published at [https://masoudsoleymani.github.io/stopwatch/](https://maso
 
 ![](public/ScreenShot.jpg)
 
-![](https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/325466_1100-1100x628.jpg)
+![](https://git.daimler.com/raw/tdh/vector-graphics-tblx/0c0ba8bf2bc669cd811cdf4e98feb4c0b214986a/tblx_logo_color_black_small.svg?token=AAAJFMPHZLZGOVZ6NAWAGH3AJ6VDK)
