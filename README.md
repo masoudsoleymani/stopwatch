@@ -25,5 +25,3 @@ Page is published at [https://masoudsoleymani.github.io/stopwatch/](https://maso
 ## Screen
 
 ![](public/ScreenShot.jpg)
-
-![](https://git.daimler.com/raw/tdh/vector-graphics-tblx/0c0ba8bf2bc669cd811cdf4e98feb4c0b214986a/tblx_logo_color_black_small.svg?token=AAAJFMPHZLZGOVZ6NAWAGH3AJ6VDK)
