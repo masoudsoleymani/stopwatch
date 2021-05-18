@@ -1,4 +1,4 @@
-## This repo is for a stopwatch app 
+## StopWatch App 
 
 Page is published at [https://masoudsoleymani.github.io/stopwatch/](https://masoudsoleymani.github.io/stopwatch/)
 
