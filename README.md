@@ -1,6 +1,8 @@
 ## StopWatch App 
 
-Page is published at [https://masoudsoleymani.github.io/stopwatch/](https://masoudsoleymani.github.io/stopwatch/)
+A simple, easy and accurate app for measure the time.
+
+Published at [https://masoudsoleymani.github.io/stopwatch/](https://masoudsoleymani.github.io/stopwatch/)
 
 ## Run in the development mode
 
