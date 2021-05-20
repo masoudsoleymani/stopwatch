@@ -4,7 +4,7 @@ A simple, easy and accurate app for measure the time.
 
 Published at [https://masoudsoleymani.github.io/stopwatch/](https://masoudsoleymani.github.io/stopwatch/)
 
-## Run in the development mode
+## Development 
 
   ### Prerequisites
   - [Node.js](https://nodejs.org/en/)
@@ -16,7 +16,7 @@ Published at [https://masoudsoleymani.github.io/stopwatch/](https://masoudsoleym
   - `yarn` for dependencies installation
 
   ### Running
-  - `yarn start` for webpack-dev-server
+  - `yarn start`
   - `yarn build` for production
 
   ### Running with Docker
