@@ -1,4 +1,4 @@
-## StopWatch App 
+## StopWatch 
 
 A simple, easy and accurate app for measure the time.
 
