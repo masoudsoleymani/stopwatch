@@ -27,3 +27,6 @@ Published at [https://masoudsoleymani.github.io/stopwatch/](https://masoudsoleym
 ## Screen
 
 ![](public/ScreenShot.jpg)
+
+## License
+This project is licensed under the terms of the MIT license. See [LICENSE](LICENSE) 
